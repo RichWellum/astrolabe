@@ -1,0 +1,22 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}All about me}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Astrolabe}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Intro}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Usage}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}No Verbosity \sphinxhyphen {} runs disk and memory daemonset}{3}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Medium Verbosity \sphinxhyphen {} runs disk and memory daemonset, metrics server and df\sphinxhyphen {}pv}{4}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}High Verbosity \sphinxhyphen {} runs every tool}{4}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Defaults \sphinxhyphen {} Explicit}{4}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}For the package maintainer}{4}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Building docker image}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Pushing docker image}{4}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Cleanup, build and push \sphinxhyphen {} expensive but saves on tags}{5}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Debugging disk\sphinxhyphen {}checker}{5}{subsection.2.3.4}%
+\contentsline {subsubsection}{Check status of daemonset}{5}{subsubsection*.3}%
+\contentsline {subsection}{\numberline {2.3.5}Sphinx generating docs}{5}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Generating html}{5}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Generating pdf}{5}{subsection.2.3.7}%
+\contentsline {chapter}{\numberline {3}Sample Output}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Command run}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Output}{7}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Indices and tables}{11}{chapter.4}%
